@@ -1,5 +1,8 @@
 {
   "dockerFile":  "Dockerfile",
   "features": {
+  },
+  "remoteEnv": {
+    "DEVCONTAINER_ENV": "devcontainer"
   }
 }
